@@ -1,0 +1,11 @@
+server:
+    port: 8710
+
+spring:
+    profiles:
+        active: dev
+
+    data:
+        redis:
+            repositories:
+                enabled: false

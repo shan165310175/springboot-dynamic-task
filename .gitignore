@@ -1,0 +1,9 @@
+
+# User-specific stuff
+.idea/**/
+.idea
+*.iml
+target
+**/*.iml
+**/target
+**/.idea
